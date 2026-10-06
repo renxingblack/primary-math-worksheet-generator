@@ -1,6 +1,6 @@
 # Primary Math Worksheet Generator
 
-> 一套面向中国小学数学（1–6 年级）的**可打印计算练习题生成器**——单个 HTML 文件，双击即用，无需安装、无需联网、无需构建。
+> 一套面向中国小学数学（1–6 年级）的**可打印的数学计算练习卷生成器（口算|脱式|竖式|方程）**——单个 HTML 文件，双击即用，无需安装、无需联网、无需构建。
 
 <p align="center">
   <img src="assets/screenshot.png" alt="Primary Math Worksheet Generator — UI" width="900">
