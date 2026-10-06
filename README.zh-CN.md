@@ -1,8 +1,8 @@
 # primary-math-worksheet-generator
 Printable primary-school math worksheet generator for Chinese Grades 1–6. Single HTML file, no install, works offline. 131 grade presets, 32 mental-math shortcut rules, export to PDF / Word / PNG.
-面向中国小学 1–6 年级的可打印数学练习卷生成器：单 HTML 文件、免安装、可离线。内置 131 套年级预设与 32 条巧算规则，支持导出 PDF / Word / 图片。
+面向中国小学 1–6 年级的可打印数学计算练习卷生成器：单 HTML 文件、免安装、可离线。内置 131 套年级预设与 32 条巧算规则，支持导出 PDF / Word / 图片。
 
-# 小学数学计算练习卷生成器
+# 小学数学计算练习卷生成器（口算|脱式|竖式|方程）
 
 > 面向中国小学数学（1–6 年级）的**可打印计算类练习题生成器**——单个 HTML 文件，双击即用，免安装、免联网、免构建。
 
